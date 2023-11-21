@@ -14,7 +14,8 @@ I'm a 2023 graduate who is passionate about writing code, solving problems, lear
     - Javascript
     - Typescript
   - **Web Development Frameworks** 🌐
-    - React
+    - React.js
+    - Node.js
     - SpringBoot
   - **Other Technology** 📡
     - Elasticsearch
