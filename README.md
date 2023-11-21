@@ -11,8 +11,8 @@ I'm a 2023 graduate who is passionate about writing code, solving problems, lear
 
 ## 🚀 Languages and Tools:
 
-| Category                   | Technologies                                     |
-|---------------------------|--------------------------------------------------|
+| Category                    | Technologies                                     |
+|-----------------------------|--------------------------------------------------|
 | Programming Languages      | Python, Java, Javascript, Typescript             |
 | Web Development Frameworks | React.js, Node.js, SpringBoot                     |
 | Other Technology           | Elasticsearch, Apache Kafka                      |
