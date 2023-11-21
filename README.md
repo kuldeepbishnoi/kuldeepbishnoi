@@ -16,6 +16,9 @@ I'm a 2023 graduate who is passionate about writing code, solving problems, lear
   - **Web Development Frameworks** 🌐
     - React
     - SpringBoot
+  - **Other Technology** 📡
+    - Elasticsearch
+    - Apache Kafka
   - **Databases** 🛢️
     - NoSQL (MongoDB)
     - SQL (MySQL)
