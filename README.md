@@ -4,7 +4,7 @@
 
 I'm a 2023 graduate who is passionate about writing code, solving problems, learning new algorithms, and building websites.
 
-- 🔭 I intern at TCS iON and Future Ready Talent.
+- 🔭 I interned at TCS iON and Future Ready Talent.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bishnoikuldeep/) [Gmail](mailto:kuldeepbishnoi.2001@gmail.com)
 - My coding profile - [Leetcode](https://leetcode.com/kuldeep_29/)
 - **Proficiency** 🚀
